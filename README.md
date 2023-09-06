@@ -23,3 +23,6 @@ Psychological segmentation of customers generally deals with things like persona
 It’s not wise to serve all customers with the same product model, email, text message campaign, or ad. Customers have different needs. A one-size-for-all approach to business will generally result in less engagement, lower-click through rates, and ultimately fewer sales. Customer segmentation is the cure for this problem.
 
 Finding an optimal number of unique customer groups will help you understand how your customers differ, and help you give them exactly what they want. Customer segmentation improves customer experience and boosts company revenue. That’s why segmentation is a must if you want to surpass your competitors and get more customers.
+
+# References
+https://neptune.ai/blog/customer-segmentation-using-machine-learning
